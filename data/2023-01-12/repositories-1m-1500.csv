@@ -1,0 +1,21 @@
+,full_name,stargazers_count,language,description,created_at
+0,LAION-AI/Open-Assistant,4040,Jupyter Notebook,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+1,f/awesome-chatgpt-prompts,14724,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+2,karpathy/nanoGPT,6304,Jupyter Notebook,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+3,google/comprehensive-rust,6478,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+4,fuergaosi233/wechat-chatgpt,5257,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+5,lucidrains/PaLM-rlhf-pytorch,4305,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+6,sourcegraph/conc,3697,Go,Better structured concurrency for go,2023-01-02
+7,shinework/photoshot,1529,TypeScript,An open-source AI avatar generator web app - https://photoshot.app,2022-12-05
+8,wong2/chat-gpt-google-extension,8369,SCSS,A browser extension to display ChatGPT response alongside search engine results,2022-12-04
+9,calistus-igwilo/nitda-blockchain-scholarship,3041,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+10,transitive-bullshit/chatgpt-api,5117,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+11,acheong08/ChatGPT,9290,Python,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,2022-12-03
+12,danielgross/whatsapp-gpt,1592,Go,,2022-12-02
+13,humanloop/awesome-chatgpt,4006,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+14,lencx/ChatGPT,4404,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+15,rawandahmad698/PyChatGPT,2579,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05
+16,openai/point-e,3898,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+17,mpociot/chatgpt-vscode,2550,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+18,m1guelpf/chatgpt-telegram,2280,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+19,JusticeRage/Gepetto,1752,Python,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,2022-12-04

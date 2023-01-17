@@ -1,0 +1,21 @@
+,full_name,stargazers_count,language,description,created_at
+0,AUTOMATIC1111/stable-diffusion-webui,28736,Python,Stable Diffusion web UI,2022-08-22
+1,openai/whisper,21146,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+2,CodeEditApp/CodeEdit,16241,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+3,lensterxyz/lenster,11995,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+4,toeverything/AFFiNE,12283,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+5,t3-oss/create-t3-app,13255,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+6,CompVis/stable-diffusion,39378,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+7,sismo-core/sismo-protocol,15543,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+8,AykutSarac/jsoncrack.com,21508,TypeScript,"🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",2022-01-30
+9,f/awesome-chatgpt-prompts,15991,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+10,pyscript/pyscript,15297,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+11,pocketbase/pocketbase,19904,Go,Open Source realtime backend in 1 file,2022-07-05
+12,NVlabs/instant-ngp,10777,Cuda,Instant neural graphics primitives: lightning fast NeRF and more,2022-01-05
+13,charmbracelet/gum,11851,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+14,Grasscutters/Grasscutter,12290,Java,A server software reimplementation for a certain anime game.,2022-04-17
+15,karanpratapsingh/system-design,14244,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+16,WeNeedHome/SummaryOfLoanSuspension,20338,HTML,全国各省市停贷通知汇总,2022-07-12
+17,NVIDIA/open-gpu-kernel-modules,12826,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+18,The-Run-Philosophy-Organization/run,24907,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+19,geekan/HowToLiveLonger,20120,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

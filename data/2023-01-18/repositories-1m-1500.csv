@@ -1,0 +1,25 @@
+,full_name,stargazers_count,language,description,created_at
+0,LAION-AI/Open-Assistant,4444,Jupyter Notebook,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+1,transitive-bullshit/chatgpt-api,5409,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+2,iway1/react-ts-form,1552,TypeScript,,2022-12-25
+3,karpathy/nanoGPT,8115,Jupyter Notebook,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+4,lencx/ChatGPT,5249,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+5,f/awesome-chatgpt-prompts,16266,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+6,google/comprehensive-rust,6667,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+7,sourcegraph/conc,4633,Go,Better structured concurrency for go,2023-01-02
+8,acheong08/ChatGPT,9690,Python,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,2022-12-03
+9,gluon-framework/gluon,1717,JavaScript,"A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",2022-12-07
+10,danielgross/whatsapp-gpt,1977,Go,,2022-12-02
+11,amitshekhariitbhu/go-backend-clean-architecture,1615,Go,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",2023-01-08
+12,gragland/chatgpt-chrome-extension,1592,JavaScript,A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.,2022-12-04
+13,shinework/photoshot,1564,TypeScript,An open-source AI avatar generator web app - https://photoshot.app,2022-12-05
+14,humanloop/awesome-chatgpt,4162,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+15,wong2/chat-gpt-google-extension,8625,SCSS,A browser extension to display ChatGPT response alongside search engine results,2022-12-04
+16,mpociot/chatgpt-vscode,2709,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+17,lucidrains/PaLM-rlhf-pytorch,4453,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+18,fuergaosi233/wechat-chatgpt,5346,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+19,calistus-igwilo/nitda-blockchain-scholarship,3047,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+20,rawandahmad698/PyChatGPT,2673,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05
+21,openai/point-e,3975,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+22,m1guelpf/chatgpt-telegram,2367,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+23,JusticeRage/Gepetto,1778,Python,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,2022-12-04

@@ -1,0 +1,22 @@
+,full_name,stargazers_count,language,description,created_at
+0,CompVis/stable-diffusion,39494,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+1,AUTOMATIC1111/stable-diffusion-webui,28948,Python,Stable Diffusion web UI,2022-08-22
+2,toeverything/AFFiNE,12329,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+3,lensterxyz/lenster,12030,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+4,f/awesome-chatgpt-prompts,16516,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+5,CodeEditApp/CodeEdit,16260,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+6,pyscript/pyscript,15312,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+7,t3-oss/create-t3-app,13356,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+8,openai/whisper,21301,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+9,NVlabs/instant-ngp,10806,Cuda,Instant neural graphics primitives: lightning fast NeRF and more,2022-01-05
+10,Stability-AI/stablediffusion,10015,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+11,AykutSarac/jsoncrack.com,21534,TypeScript,"🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",2022-01-30
+12,pocketbase/pocketbase,20155,Go,Open Source realtime backend in 1 file,2022-07-05
+13,sismo-core/sismo-protocol,15508,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+14,Grasscutters/Grasscutter,12326,Java,A server software reimplementation for a certain anime game.,2022-04-17
+15,charmbracelet/gum,11881,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+16,karanpratapsingh/system-design,14274,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+17,WeNeedHome/SummaryOfLoanSuspension,20338,HTML,全国各省市停贷通知汇总,2022-07-12
+18,NVIDIA/open-gpu-kernel-modules,12828,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+19,The-Run-Philosophy-Organization/run,24922,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+20,geekan/HowToLiveLonger,20133,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

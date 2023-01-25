@@ -1,0 +1,33 @@
+,full_name,stargazers_count,language,description,created_at
+0,f/awesome-chatgpt-prompts,17952,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+1,LAION-AI/Open-Assistant,4747,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+2,hwchase17/langchain,4414,Python,⚡ Building applications with LLMs through composability ⚡,2022-10-17
+3,google/comprehensive-rust,8069,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+4,pynecone-io/pynecone,3618,Python,🕸 Web apps in pure Python 🐍,2022-10-25
+5,google-research/tuning_playbook,10608,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+6,lencx/ChatGPT,5991,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+7,book-searcher-org/book-searcher,4762,TypeScript,"Easy and fast book searcher, create and search your private library.",2022-11-24
+8,karpathy/nanoGPT,9490,Jupyter Notebook,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+9,sourcegraph/conc,4816,Go,Better structured concurrency for go,2023-01-02
+10,jart/blink,4057,C,tiniest x86-64-linux emulator,2022-11-03
+11,google/osv-scanner,4337,Go,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,2022-11-14
+12,openblocks-dev/openblocks,4007,TypeScript,🔥 🔥 🔥 The Open Source Retool Alternative,2022-11-14
+13,humanloop/awesome-chatgpt,4298,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+14,wong2/chat-gpt-google-extension,8793,SCSS,A browser extension to display ChatGPT response alongside search engine results,2022-12-04
+15,tw93/Pake,9727,Rust,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,2022-10-14
+16,acheong08/ChatGPT,9992,Python,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,2022-12-03
+17,Stability-AI/stablediffusion,10255,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+18,transitive-bullshit/chatgpt-api,5642,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+19,krahets/hello-algo,6489,Java,"《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。",2022-11-04
+20,lucidrains/PaLM-rlhf-pytorch,4566,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+21,score-spec/spec,7396,,The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.,2022-10-31
+22,vincelwt/chatgpt-mac,3146,JavaScript,"ChatGPT for Mac, living in your menubar.",2022-12-01
+23,milanm/DevOps-Roadmap,3951,,DevOps Roadmap for 2022. with learning resources,2022-10-23
+24,fuergaosi233/wechat-chatgpt,5402,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+25,calistus-igwilo/nitda-blockchain-scholarship,3047,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+26,apple/ml-stable-diffusion,5067,Python,Stable Diffusion with Core ML on Apple Silicon,2022-11-16
+27,atelier-anchor/smiley-sans,9701,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+28,openai/point-e,4058,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+29,shadcn/taxonomy,3929,TypeScript,"An open source application built using the new router, server components and everything new in Next.js 13.",2022-10-18
+30,ashawkey/stable-dreamfusion,3613,Python,"A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.",2022-10-06
+31,mli/autocut,3461,Python,用文本编辑器剪视频,2022-10-28

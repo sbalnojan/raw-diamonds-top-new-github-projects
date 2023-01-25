@@ -1,0 +1,25 @@
+,full_name,stargazers_count,language,description,created_at
+0,f/awesome-chatgpt-prompts,17952,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+1,AUTOMATIC1111/stable-diffusion-webui,29512,Python,Stable Diffusion web UI,2022-08-22
+2,lensterxyz/lenster,12232,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+3,openai/whisper,21929,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+4,CodeEditApp/CodeEdit,16313,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+5,google-research/tuning_playbook,10608,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+6,invoke-ai/InvokeAI,10028,Jupyter Notebook,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",2022-08-17
+7,terrastruct/d2,10219,Go,D2 is a modern diagram scripting language that turns text to diagrams.,2022-09-05
+8,t3-oss/create-t3-app,13557,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+9,pyscript/pyscript,15332,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+10,pocketbase/pocketbase,20359,Go,Open Source realtime backend in 1 file,2022-07-05
+11,NVlabs/instant-ngp,10855,Cuda,Instant neural graphics primitives: lightning fast NeRF and more,2022-01-05
+12,AykutSarac/jsoncrack.com,21570,TypeScript,"🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",2022-01-30
+13,NVIDIA/open-gpu-kernel-modules,12847,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+14,sismo-core/sismo-protocol,15674,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+15,Grasscutters/Grasscutter,12362,Java,A server software reimplementation for a certain anime game.,2022-04-17
+16,toeverything/AFFiNE,12426,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+17,CompVis/stable-diffusion,39821,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+18,Stability-AI/stablediffusion,10255,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+19,charmbracelet/gum,11989,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+20,karanpratapsingh/system-design,14318,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+21,WeNeedHome/SummaryOfLoanSuspension,20346,HTML,全国各省市停贷通知汇总,2022-07-12
+22,The-Run-Philosophy-Organization/run,24964,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+23,geekan/HowToLiveLonger,20144,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

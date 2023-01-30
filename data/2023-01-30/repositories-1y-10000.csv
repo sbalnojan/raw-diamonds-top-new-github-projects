@@ -1,0 +1,30 @@
+,full_name,stargazers_count,language,description,created_at
+0,karpathy/nanoGPT,10203,Jupyter Notebook,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+1,t3-oss/create-t3-app,13852,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+2,toeverything/AFFiNE,12506,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+3,AUTOMATIC1111/stable-diffusion-webui,30222,Python,Stable Diffusion web UI,2022-08-22
+4,CodeEditApp/CodeEdit,16416,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+5,f/awesome-chatgpt-prompts,19002,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+6,Grasscutters/Grasscutter,12395,Java,A server software reimplementation for a certain anime game.,2022-04-17
+7,google-research/tuning_playbook,12698,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+8,invoke-ai/InvokeAI,10177,Jupyter Notebook,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",2022-08-17
+9,terrastruct/d2,10461,Go,D2 is a modern diagram scripting language that turns text to diagrams.,2022-09-05
+10,lensterxyz/lenster,12410,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+11,AykutSarac/jsoncrack.com,21620,TypeScript,"🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",2022-01-30
+12,pocketbase/pocketbase,20516,Go,Open Source realtime backend in 1 file,2022-07-05
+13,tw93/Pake,10187,Rust,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,2022-10-14
+14,pyscript/pyscript,15350,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+15,openai/openai-cookbook,10475,Python,Examples and guides for using the OpenAI API,2022-03-11
+16,The-Run-Philosophy-Organization/run,25003,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+17,openai/whisper,22335,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+18,charmbracelet/gum,12035,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+19,sismo-core/sismo-protocol,15921,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+20,acheong08/ChatGPT,10324,Python,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,2022-12-03
+21,NVlabs/instant-ngp,10904,Cuda,Instant neural graphics primitives: lightning fast NeRF and more,2022-01-05
+22,CompVis/stable-diffusion,40123,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+23,NVIDIA/open-gpu-kernel-modules,12855,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+24,Stability-AI/stablediffusion,10439,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+25,bloomberg/memray,10021,Python,Memray is a memory profiler for Python,2022-04-08
+26,karanpratapsingh/system-design,14363,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+27,WeNeedHome/SummaryOfLoanSuspension,20340,HTML,全国各省市停贷通知汇总,2022-07-12
+28,geekan/HowToLiveLonger,20177,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

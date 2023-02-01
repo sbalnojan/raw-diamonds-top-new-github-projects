@@ -1,0 +1,42 @@
+,full_name,stargazers_count,language,description,created_at
+0,localsend/localsend,4140,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+1,dair-ai/Prompt-Engineering-Guide,1782,,:octopus: Guide and resources for prompt engineering,2022-12-16
+2,AzeemIdrisi/PhoneSploit-Pro,2178,Python,An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.,2022-12-24
+3,LAION-AI/Open-Assistant,6599,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+4,lencx/ChatGPT,7741,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+5,acheong08/ChatGPT,10581,Python,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,2022-12-03
+6,karpathy/nanoGPT,10528,Jupyter Notebook,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+7,fathyb/carbonyl,7225,Rust,Chromium running inside your terminal,2023-01-20
+8,ai-collection/ai-collection,1917,,The Generative AI Landscape - A Collection of Awesome Generative AI Applications,2023-01-03
+9,shadcn/ui,7017,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+10,humanloop/awesome-chatgpt,4449,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+11,wong2/chatgpt-google-extension,9025,SCSS,A browser extension that enhance search engines with ChatGPT,2022-12-04
+12,Nutlope/restorePhotos,1607,TypeScript,Restoring old and blurry face photos with AI.,2023-01-08
+13,gluon-framework/gluon,2446,JavaScript,"A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",2022-12-07
+14,google/comprehensive-rust,8814,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+15,timothybrooks/instruct-pix2pix,2953,Python,,2023-01-09
+16,LazyVim/LazyVim,2936,Lua,Neovim config for the lazy,2022-12-30
+17,danielgross/whatsapp-gpt,2274,Go,,2022-12-02
+18,TheAppleTucker/backend-GPT,2278,JavaScript,,2023-01-21
+19,Mokshit06/typewind,1511,TypeScript,The safety of Typescript with the magic of Tailwind.,2023-01-17
+20,fuergaosi233/wechat-chatgpt,5646,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+21,iway1/react-ts-form,1669,TypeScript,,2022-12-25
+22,f/awesome-chatgpt-prompts,19600,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+23,dair-ai/ML-Papers-Explained,2607,,Explanation to key concepts in ML,2023-01-12
+24,sourcegraph/conc,5237,Go,Better structured concurrency for go,2023-01-02
+25,google-research/tuning_playbook,13311,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+26,hiifeng/V2ray-for-Doprax,2778,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+27,steven-tey/precedent,1834,TypeScript,"An opinionated collection of components, hooks, and utilities for your Next.js project.",2023-01-13
+28,xiaye13579/BBLL,2439,,一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。,2022-12-12
+29,lucidrains/PaLM-rlhf-pytorch,4795,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+30,calistus-igwilo/nitda-blockchain-scholarship,3049,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+31,transitive-bullshit/chatgpt-api,5956,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+32,midudev/kings-league-project,1516,JavaScript,API y website de la Kings League Infojobs por temas didácticos,2023-01-03
+33,m1guelpf/chatgpt-telegram,2554,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+34,amitshekhariitbhu/go-backend-clean-architecture,1825,Go,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",2023-01-08
+35,gragland/chatgpt-chrome-extension,1773,JavaScript,A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.,2022-12-04
+36,shinework/photoshot,1620,TypeScript,An open-source AI avatar generator web app - https://photoshot.app,2022-12-05
+37,mpociot/chatgpt-vscode,3010,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+38,rawandahmad698/PyChatGPT,3027,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05
+39,openai/point-e,4133,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+40,JusticeRage/Gepetto,1811,Python,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,2022-12-04

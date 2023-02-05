@@ -1,0 +1,45 @@
+,full_name,stargazers_count,language,description,created_at
+0,LAION-AI/Open-Assistant,8927,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+1,shadcn/ui,7381,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+2,immersive-translate/immersive-translate,1610,Makefile,Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 ,2022-12-07
+3,ai-collection/ai-collection,1995,,The Generative AI Landscape - A Collection of Awesome Generative AI Applications,2023-01-03
+4,lencx/ChatGPT,8934,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+5,openai/point-e,4176,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+6,acheong08/ChatGPT,11634,Python,Reverse engineered ChatGPT API. Uses official model same as the website.,2022-12-03
+7,sourcegraph/conc,5474,Go,Better structured concurrency for go,2023-01-02
+8,LazyVim/LazyVim,3064,Lua,Neovim config for the lazy,2022-12-30
+9,fathyb/carbonyl,9174,Rust,Chromium running inside your terminal,2023-01-20
+10,karpathy/nanoGPT,11633,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+11,transitive-bullshit/chatgpt-api,6763,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+12,TheAppleTucker/backend-GPT,2367,JavaScript,,2023-01-21
+13,localsend/localsend,4891,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+14,dair-ai/Prompt-Engineering-Guide,2349,,:octopus: Guide and resources for prompt engineering,2022-12-16
+15,gluon-framework/gluon,2480,JavaScript,"A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",2022-12-07
+16,fuergaosi233/wechat-chatgpt,5923,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+17,wong2/chatgpt-google-extension,9191,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+18,Mokshit06/typewind,1610,TypeScript,The safety of Typescript with the magic of Tailwind.,2023-01-17
+19,Nutlope/restorePhotos,1860,TypeScript,Restoring old and blurry face photos with AI.,2023-01-08
+20,f/awesome-chatgpt-prompts,20470,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+21,google/comprehensive-rust,8910,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+22,humanloop/awesome-chatgpt,4548,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+23,google-research/tuning_playbook,14424,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+24,xiaye13579/BBLL,2651,,一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。,2022-12-12
+25,varunshenoy/GraphGPT,1883,JavaScript,Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️,2023-01-31
+26,shinework/photoshot,1648,TypeScript,An open-source AI avatar generator web app - https://photoshot.app,2022-12-05
+27,steven-tey/precedent,1883,TypeScript,"An opinionated collection of components, hooks, and utilities for your Next.js project.",2023-01-13
+28,hiifeng/V2ray-for-Doprax,3278,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+29,AzeemIdrisi/PhoneSploit-Pro,2276,Python,An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.,2022-12-24
+30,timothybrooks/instruct-pix2pix,3104,Python,,2023-01-09
+31,danielgross/whatsapp-gpt,2333,Go,,2022-12-02
+32,iway1/react-ts-form,1686,TypeScript,,2022-12-25
+33,dair-ai/ML-Papers-Explained,2779,,Explanation to key concepts in ML,2023-01-12
+34,lucidrains/PaLM-rlhf-pytorch,4882,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+35,calistus-igwilo/nitda-blockchain-scholarship,3051,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+36,PlexPt/awesome-chatgpt-prompts-zh,1699,,ChatGPT 中文调教指南。怎么让它听你的话。,2022-12-12
+37,midudev/kings-league-project,1519,JavaScript,API y website de la Kings League Infojobs por temas didácticos,2023-01-03
+38,m1guelpf/chatgpt-telegram,2607,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+39,amitshekhariitbhu/go-backend-clean-architecture,1849,Go,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",2023-01-08
+40,gragland/chatgpt-chrome-extension,1818,JavaScript,A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.,2022-12-04
+41,mpociot/chatgpt-vscode,3184,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+42,rawandahmad698/PyChatGPT,3076,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05
+43,JusticeRage/Gepetto,1811,Python,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,2022-12-04

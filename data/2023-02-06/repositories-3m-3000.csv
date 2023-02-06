@@ -1,0 +1,35 @@
+,full_name,stargazers_count,language,description,created_at
+0,LAION-AI/Open-Assistant,10714,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+1,hiifeng/V2ray-for-Doprax,3376,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+2,google/comprehensive-rust,8942,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+3,jart/blink,4649,C,tiniest x86-64-linux emulator,2022-11-03
+4,shadcn/ui,7464,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+5,LazyVim/LazyVim,3089,Lua,Neovim config for the lazy,2022-12-30
+6,krahets/hello-algo,7755,Java,"《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",2022-11-04
+7,lencx/ChatGPT,9366,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+8,jerryjliu/gpt_index,3355,Python,GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.,2022-11-02
+9,f/awesome-chatgpt-prompts,20791,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+10,localsend/localsend,4987,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+11,google/osv-scanner,4414,Go,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,2022-11-14
+12,openblocks-dev/openblocks,4066,TypeScript,🔥 🔥 🔥 The Open Source Retool Alternative,2022-11-14
+13,fuergaosi233/wechat-chatgpt,6047,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+14,acheong08/ChatGPT,12521,Python,Reverse engineered ChatGPT API,2022-12-03
+15,transitive-bullshit/chatgpt-api,6959,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+16,karpathy/nanoGPT,11760,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+17,sourcegraph/conc,5516,Go,Better structured concurrency for go,2023-01-02
+18,humanloop/awesome-chatgpt,4579,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+19,wong2/chatgpt-google-extension,9264,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+20,fathyb/carbonyl,9474,Rust,Chromium running inside your terminal,2023-01-20
+21,book-searcher-org/book-searcher,4814,TypeScript,"Easy and fast book searcher, create and search your private library.",2022-11-24
+22,techiescamp/kubernetes-learning-path,3035,,A roadmap to learn Kubernetes from scratch (Beginner to Advanced level),2022-11-16
+23,openai/point-e,4184,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+24,google-research/tuning_playbook,14642,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+25,apple/ml-stable-diffusion,5236,Python,Stable Diffusion with Core ML on Apple Silicon,2022-11-16
+26,Stability-AI/stablediffusion,10786,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+27,atelier-anchor/smiley-sans,9925,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+28,timothybrooks/instruct-pix2pix,3167,Python,,2023-01-09
+29,vincelwt/chatgpt-mac,3471,JavaScript,"ChatGPT for Mac, living in your menubar.",2022-12-01
+30,lucidrains/PaLM-rlhf-pytorch,4913,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+31,calistus-igwilo/nitda-blockchain-scholarship,3051,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+32,mpociot/chatgpt-vscode,3210,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+33,rawandahmad698/PyChatGPT,3086,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05

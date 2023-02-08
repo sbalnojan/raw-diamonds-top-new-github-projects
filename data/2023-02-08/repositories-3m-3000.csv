@@ -1,0 +1,36 @@
+,full_name,stargazers_count,language,description,created_at
+0,f/awesome-chatgpt-prompts,22057,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+1,LAION-AI/Open-Assistant,12988,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+2,openblocks-dev/openblocks,4082,TypeScript,🔥 🔥 🔥 The Open Source Retool Alternative,2022-11-14
+3,google/comprehensive-rust,8961,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+4,krahets/hello-algo,7863,Java,"《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",2022-11-04
+5,jerryjliu/gpt_index,3466,Python,GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.,2022-11-02
+6,LazyVim/LazyVim,3131,Lua,Neovim config for the lazy,2022-12-30
+7,Stability-AI/stablediffusion,10902,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+8,acheong08/ChatGPT,13982,Python,Reverse engineered ChatGPT API,2022-12-03
+9,google/osv-scanner,4451,Go,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,2022-11-14
+10,apple/ml-stable-diffusion,5266,Python,Stable Diffusion with Core ML on Apple Silicon,2022-11-16
+11,shadcn/ui,7647,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+12,fathyb/carbonyl,9924,Rust,Chromium running inside your terminal,2023-01-20
+13,localsend/localsend,5272,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+14,transitive-bullshit/chatgpt-api,7317,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+15,karpathy/nanoGPT,12009,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+16,jart/blink,4707,C,tiniest x86-64-linux emulator,2022-11-03
+17,techiescamp/kubernetes-learning-path,3699,,A roadmap to learn Kubernetes from scratch (Beginner to Advanced level),2022-11-16
+18,sourcegraph/conc,5581,Go,Better structured concurrency for go,2023-01-02
+19,lencx/ChatGPT,10760,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+20,humanloop/awesome-chatgpt,4678,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+21,hiifeng/V2ray-for-Doprax,3540,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+22,wong2/chatgpt-google-extension,9444,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+23,fuergaosi233/wechat-chatgpt,6490,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+24,PlexPt/awesome-chatgpt-prompts-zh,4016,,ChatGPT 中文调教指南。怎么让它听你的话。,2022-12-12
+25,book-searcher-org/book-searcher,4831,TypeScript,"Easy and fast book searcher, create and search your private library.",2022-11-24
+26,openai/point-e,4210,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+27,google-research/tuning_playbook,14935,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+28,atelier-anchor/smiley-sans,9952,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+29,timothybrooks/instruct-pix2pix,3235,Python,,2023-01-09
+30,vincelwt/chatgpt-mac,3603,JavaScript,"ChatGPT for Mac, living in your menubar.",2022-12-01
+31,lucidrains/PaLM-rlhf-pytorch,4996,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+32,calistus-igwilo/nitda-blockchain-scholarship,3051,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+33,mpociot/chatgpt-vscode,3261,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+34,rawandahmad698/PyChatGPT,3151,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05

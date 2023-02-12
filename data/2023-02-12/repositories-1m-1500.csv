@@ -1,0 +1,53 @@
+,full_name,stargazers_count,language,description,created_at
+0,LAION-AI/Open-Assistant,14732,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+1,acheong08/ChatGPT,15359,Python,Reverse engineered ChatGPT API,2022-12-03
+2,PlexPt/awesome-chatgpt-prompts-zh,5690,,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。,2022-12-12
+3,immersive-translate/immersive-translate,2206,Makefile,Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 ,2022-12-07
+4,shadcn/ui,7931,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+5,BlinkDL/ChatRWKV,1958,Python,"ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",2023-01-13
+6,localsend/localsend,5460,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+7,f/awesome-chatgpt-prompts,24241,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+8,cloudflare/wildebeest,1537,TypeScript,Wildebeest is an ActivityPub and Mastodon-compatible server,2022-12-21
+9,fuergaosi233/wechat-chatgpt,7454,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+10,fathyb/carbonyl,10671,Rust,Chromium running inside your terminal,2023-01-20
+11,karpathy/nanoGPT,12555,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+12,shobrook/adrenaline,1526,JavaScript,An AI-powered debugger,2022-12-07
+13,google-research/tuning_playbook,15368,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+14,transitive-bullshit/chatgpt-api,7896,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+15,AzeemIdrisi/PhoneSploit-Pro,2329,Python,An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.,2022-12-24
+16,arc53/DocsGPT,2063,Python,GPT-powered chat for documentation search & assistance.,2023-02-02
+17,gragland/chatgpt-chrome-extension,1966,JavaScript,A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.,2022-12-04
+18,sourcegraph/conc,5766,Go,Better structured concurrency for go,2023-01-02
+19,lencx/ChatGPT,13289,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+20,LazyVim/LazyVim,3247,Lua,Neovim config for the lazy,2022-12-30
+21,qunash/chatgpt-advanced,1707,TypeScript,WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.,2022-12-03
+22,gluon-framework/gluon,2535,JavaScript,"A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",2022-12-07
+23,amitshekhariitbhu/go-backend-clean-architecture,1902,Go,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",2023-01-08
+24,eliaszon/Programmers-Overseas-Job-Interview-Handbook,2244,,🏂🏻 程序员海外工作/英文面试手册,2022-12-23
+25,hiifeng/V2ray-for-Doprax,3973,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+26,google/comprehensive-rust,9017,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+27,AutumnWhj/ChatGPT-wechat-bot,2505,TypeScript,ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot,2022-12-05
+28,wong2/chatgpt-google-extension,9751,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+29,Mokshit06/typewind,1702,TypeScript,The safety of Typescript with the magic of Tailwind.,2023-01-17
+30,humanloop/awesome-chatgpt,4848,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+31,varunshenoy/GraphGPT,2312,JavaScript,Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️,2023-01-31
+32,youshandefeiyang/IPTV,1927,Go,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,2022-12-25
+33,xiaye13579/BBLL,2903,,一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。,2022-12-12
+34,timothybrooks/instruct-pix2pix,3357,Python,,2023-01-09
+35,dair-ai/ML-Papers-Explained,2893,,Explanation to key concepts in ML,2023-01-12
+36,dair-ai/Prompt-Engineering-Guide,2790,,":octopus: Guides, papers, and resources for prompt engineering",2022-12-16
+37,Nutlope/restorePhotos,1962,TypeScript,Restoring old and blurry face photos with AI.,2023-01-08
+38,ai-collection/ai-collection,2111,,The Generative AI Landscape - A Collection of Awesome Generative AI Applications,2023-01-03
+39,openai/point-e,4261,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+40,TheAppleTucker/backend-GPT,2463,JavaScript,,2023-01-21
+41,shinework/photoshot,1666,TypeScript,An open-source AI avatar generator web app - https://photoshot.app,2022-12-05
+42,steven-tey/precedent,1957,TypeScript,"An opinionated collection of components, hooks, and utilities for your Next.js project.",2023-01-13
+43,danielgross/whatsapp-gpt,2418,Go,,2022-12-02
+44,iway1/react-ts-form,1698,TypeScript,,2022-12-25
+45,lucidrains/PaLM-rlhf-pytorch,5136,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+46,calistus-igwilo/nitda-blockchain-scholarship,3054,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+47,midudev/kings-league-project,1521,JavaScript,API y website de la Kings League Infojobs por temas didácticos,2023-01-03
+48,m1guelpf/chatgpt-telegram,2831,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+49,mpociot/chatgpt-vscode,3323,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+50,rawandahmad698/PyChatGPT,3269,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05
+51,JusticeRage/Gepetto,1846,Python,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,2022-12-04

@@ -1,0 +1,34 @@
+,full_name,stargazers_count,language,description,created_at
+0,toeverything/AFFiNE,12830,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+1,LAION-AI/Open-Assistant,15831,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+2,huggingface/diffusers,10390,Python,🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch,2022-05-30
+3,t3-oss/create-t3-app,14393,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+4,lensterxyz/lenster,14408,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+5,acheong08/ChatGPT,16782,Python,Reverse engineered ChatGPT API,2022-12-03
+6,invoke-ai/InvokeAI,10733,Jupyter Notebook,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",2022-08-17
+7,f/awesome-chatgpt-prompts,27106,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+8,AUTOMATIC1111/stable-diffusion-webui,33363,Python,Stable Diffusion web UI,2022-08-22
+9,Grasscutters/Grasscutter,12531,Java,A server software reimplementation for a certain anime game.,2022-04-17
+10,openai/openai-cookbook,12804,Jupyter Notebook,Examples and guides for using the OpenAI API,2022-03-11
+11,terrastruct/d2,10886,Go,D2 is a modern diagram scripting language that turns text to diagrams.,2022-09-05
+12,karpathy/nanoGPT,13022,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+13,fathyb/carbonyl,10933,Rust,Chromium running inside your terminal,2023-01-20
+14,lencx/ChatGPT,14944,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+15,tw93/Pake,11089,Rust,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,2022-10-14
+16,CodeEditApp/CodeEdit,16778,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+17,pocketbase/pocketbase,21114,Go,Open Source realtime backend in 1 file,2022-07-05
+18,pyscript/pyscript,15447,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+19,wong2/chatgpt-google-extension,10271,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+20,CompVis/stable-diffusion,41439,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+21,openai/whisper,24021,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+22,google-research/tuning_playbook,15798,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+23,bloomberg/memray,10111,Python,Memray is a memory profiler for Python,2022-04-08
+24,Stability-AI/stablediffusion,11350,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+25,charmbracelet/gum,12200,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+26,NVIDIA/open-gpu-kernel-modules,12895,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+27,atelier-anchor/smiley-sans,10140,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+28,The-Run-Philosophy-Organization/run,25189,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+29,sismo-core/sismo-protocol,16080,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+30,karanpratapsingh/system-design,14693,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+31,WeNeedHome/SummaryOfLoanSuspension,20311,HTML,全国各省市停贷通知汇总,2022-07-12
+32,geekan/HowToLiveLonger,21398,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

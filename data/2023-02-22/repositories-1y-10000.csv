@@ -1,0 +1,35 @@
+,full_name,stargazers_count,language,description,created_at
+0,lencx/ChatGPT,16616,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+1,invoke-ai/InvokeAI,11062,Jupyter Notebook,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",2022-08-17
+2,lensterxyz/lenster,15473,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+3,toeverything/AFFiNE,13024,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+4,LAION-AI/Open-Assistant,16689,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+5,Grasscutters/Grasscutter,12578,Java,A server software reimplementation for a certain anime game.,2022-04-17
+6,openai/openai-cookbook,13373,Jupyter Notebook,Examples and guides for using the OpenAI API,2022-03-11
+7,terrastruct/d2,10966,Go,D2 is a modern diagram scripting language that turns text to diagrams.,2022-09-05
+8,huggingface/diffusers,10803,Python,🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch,2022-05-30
+9,f/awesome-chatgpt-prompts,30177,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+10,acheong08/ChatGPT,18183,Python,Reverse engineered ChatGPT API,2022-12-03
+11,bloomberg/memray,10141,Python,Memray is a memory profiler for Python,2022-04-08
+12,android/nowinandroid,10076,Kotlin,A fully functional Android app built entirely with Kotlin and Jetpack Compose,2022-04-19
+13,pyscript/pyscript,15469,Python,Home Page: https://pyscript.net  Examples: https://pyscript.net/examples,2022-02-21
+14,AUTOMATIC1111/stable-diffusion-webui,37559,Python,Stable Diffusion web UI,2022-08-22
+15,t3-oss/create-t3-app,14558,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+16,CodeEditApp/CodeEdit,16861,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+17,karpathy/nanoGPT,13691,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+18,google-research/tuning_playbook,16206,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+19,pocketbase/pocketbase,21273,Go,Open Source realtime backend in 1 file,2022-07-05
+20,CompVis/stable-diffusion,42644,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+21,wong2/chatgpt-google-extension,10783,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+22,fathyb/carbonyl,11135,Rust,Chromium running inside your terminal,2023-01-20
+23,tw93/Pake,11271,Rust,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,2022-10-14
+24,Stability-AI/stablediffusion,11853,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+25,karanpratapsingh/system-design,14747,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+26,openai/whisper,24537,Jupyter Notebook,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+27,charmbracelet/gum,12249,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+28,NVIDIA/open-gpu-kernel-modules,12906,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+29,atelier-anchor/smiley-sans,10211,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+30,The-Run-Philosophy-Organization/run,25225,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+31,sismo-core/sismo-protocol,16146,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+32,WeNeedHome/SummaryOfLoanSuspension,20296,HTML,全国各省市停贷通知汇总,2022-07-12
+33,geekan/HowToLiveLonger,21601,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

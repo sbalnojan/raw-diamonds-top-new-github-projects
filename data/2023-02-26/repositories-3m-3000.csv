@@ -1,0 +1,49 @@
+,full_name,stargazers_count,language,description,created_at
+0,jerryjliu/gpt_index,4349,Python,LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.,2022-11-02
+1,dair-ai/Prompt-Engineering-Guide,8685,Jupyter Notebook,":octopus: Guides, papers, lecture, and resources for prompt engineering",2022-12-16
+2,acheong08/ChatGPT,18838,Python,Reverse engineered ChatGPT API,2022-12-03
+3,transitive-bullshit/chatgpt-api,9394,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+4,LAION-AI/Open-Assistant,17133,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+5,FMInference/FlexGen,5064,Python,Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation.,2023-02-15
+6,lllyasviel/ControlNet,8664,Python,Let us control diffusion models!,2023-02-01
+7,sourcegraph/conc,6021,Go,Better structured concurrency for go,2023-01-02
+8,jart/blink,4862,C,tiniest x86-64-linux emulator,2022-11-03
+9,krahets/hello-algo,8239,Java,"《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。",2022-11-04
+10,wong2/chatgpt-google-extension,10995,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+11,immersive-translate/immersive-translate,3076,Makefile,Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 ,2022-12-07
+12,f/awesome-chatgpt-prompts,32264,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+13,hiifeng/V2ray-for-Doprax,5103,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+14,lencx/ChatGPT,17513,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+15,DvorakDwarf/Infinite-Storage-Glitch,7212,Rust,"ISG lets you use YouTube as cloud storage for ANY files, not just video",2023-02-14
+16,localsend/localsend,7517,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+17,fathyb/carbonyl,11240,Rust,Chromium running inside your terminal,2023-01-20
+18,dair-ai/ML-Papers-Explained,3051,,Explanation to key concepts in ML,2023-01-12
+19,shadcn/ui,8473,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+20,google/comprehensive-rust,9422,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+21,Kanaries/pygwalker,3307,Jupyter Notebook,PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis,2023-02-16
+22,triggerdotdev/trigger.dev,3167,TypeScript,✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.,2022-11-30
+23,facebookresearch/llama,3129,Python,Inference code for LLaMA models,2023-02-14
+24,karpathy/nanoGPT,13963,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+25,apple/ml-stable-diffusion,5587,Python,Stable Diffusion with Core ML on Apple Silicon,2022-11-16
+26,total-typescript/ts-reset,3860,TypeScript,"A 'CSS reset' for TypeScript, improving types for common JavaScript API's",2023-02-19
+27,google-research/tuning_playbook,16531,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+28,openblocks-dev/openblocks,4171,TypeScript,🔥 🔥 🔥 The Open Source Retool Alternative,2022-11-14
+29,LazyVim/LazyVim,3869,Lua,Neovim config for the lazy,2022-12-30
+30,fuergaosi233/wechat-chatgpt,8557,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+31,PlexPt/awesome-chatgpt-prompts-zh,9381,,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。,2022-12-12
+32,google/osv-scanner,4576,Go,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,2022-11-14
+33,folke/lazy.nvim,3329,Lua,💤 A modern plugin manager for Neovim,2022-11-20
+34,book-searcher-org/book-searcher,4976,TypeScript,"Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.",2022-11-24
+35,lucidrains/PaLM-rlhf-pytorch,5455,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+36,vincelwt/chatgpt-mac,4171,JavaScript,"ChatGPT for Mac, living in your menubar.",2022-12-01
+37,humanloop/awesome-chatgpt,5277,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+38,techiescamp/kubernetes-learning-path,4745,,A roadmap to learn Kubernetes from scratch (Beginner to Advanced level),2022-11-16
+39,mpociot/chatgpt-vscode,3530,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+40,Stability-AI/stablediffusion,12270,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+41,openai/point-e,4409,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+42,timothybrooks/instruct-pix2pix,3581,Python,,2023-01-09
+43,xiaye13579/BBLL,3193,,一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。,2022-12-12
+44,atelier-anchor/smiley-sans,10242,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+45,calistus-igwilo/nitda-blockchain-scholarship,3060,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+46,m1guelpf/chatgpt-telegram,3112,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+47,rawandahmad698/PyChatGPT,3516,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05

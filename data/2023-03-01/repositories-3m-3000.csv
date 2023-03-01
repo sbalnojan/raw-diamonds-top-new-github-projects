@@ -1,0 +1,38 @@
+,full_name,stargazers_count,language,description,created_at
+0,transitive-bullshit/chatgpt-api,9603,TypeScript,Node.js client for the unofficial ChatGPT API. 🔥,2022-12-03
+1,FMInference/FlexGen,5703,Python,Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on large-batch high-throughput generation.,2023-02-15
+2,google/comprehensive-rust,9926,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+3,acheong08/ChatGPT,19280,Python,Reverse engineered ChatGPT API,2022-12-03
+4,dair-ai/Prompt-Engineering-Guide,10272,Jupyter Notebook,":octopus: Guides, papers, lecture, and resources for prompt engineering",2022-12-16
+5,Mikubill/sd-webui-controlnet,3534,Python,WebUI extension for ControlNet,2023-02-12
+6,Kanaries/pygwalker,3756,Jupyter Notebook,PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis,2023-02-16
+7,LAION-AI/Open-Assistant,17453,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+8,lucidrains/PaLM-rlhf-pytorch,5493,Python,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,2022-12-09
+9,localsend/localsend,7889,Dart,An open source cross-platform alternative to AirDrop,2022-12-16
+10,f/awesome-chatgpt-prompts,33923,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+11,wong2/chatgpt-google-extension,11108,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+12,immersive-translate/immersive-translate,3157,Makefile,Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 ,2022-12-07
+13,total-typescript/ts-reset,4143,TypeScript,"A 'CSS reset' for TypeScript, improving types for common JavaScript API's",2023-02-19
+14,LazyVim/LazyVim,3946,Lua,Neovim config for the lazy,2022-12-30
+15,lencx/ChatGPT,18467,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+16,karpathy/nanoGPT,14137,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+17,fuergaosi233/wechat-chatgpt,8666,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+18,shadcn/ui,8537,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+19,PlexPt/awesome-chatgpt-prompts-zh,10189,,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。,2022-12-12
+20,lllyasviel/ControlNet,9968,Python,Let us control diffusion models!,2023-02-01
+21,facebookresearch/llama,5603,Python,Inference code for LLaMA models,2023-02-14
+22,DvorakDwarf/Infinite-Storage-Glitch,7784,Rust,"ISG lets you use YouTube as cloud storage for ANY files, not just video",2023-02-14
+23,sourcegraph/conc,6106,Go,Better structured concurrency for go,2023-01-02
+24,natemoo-re/clack,3019,TypeScript,Effortlessly build beautiful command-line apps,2023-02-08
+25,fathyb/carbonyl,11408,Rust,Chromium running inside your terminal,2023-01-20
+26,hiifeng/V2ray-for-Doprax,5238,Dockerfile,"The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",2022-12-28
+27,dair-ai/ML-Papers-Explained,3075,,Explanation to key concepts in ML,2023-01-12
+28,google-research/tuning_playbook,16761,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+29,humanloop/awesome-chatgpt,5341,,"Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",2022-12-04
+30,mpociot/chatgpt-vscode,3563,TypeScript,A VSCode extension that allows you to use ChatGPT,2022-12-03
+31,openai/point-e,4453,Python,Point cloud diffusion for 3D model synthesis,2022-12-06
+32,timothybrooks/instruct-pix2pix,3619,Python,,2023-01-09
+33,xiaye13579/BBLL,3250,,一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。,2022-12-12
+34,calistus-igwilo/nitda-blockchain-scholarship,3061,HTML,Course materials for the NITDA Blockchain Scholarship,2022-12-10
+35,m1guelpf/chatgpt-telegram,3154,Go,"Run your own GPTChat Telegram bot, with a single command!",2022-12-04
+36,rawandahmad698/PyChatGPT,3548,Python,"⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",2022-12-05

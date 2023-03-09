@@ -1,0 +1,13 @@
+,full_name,stargazers_count,language,description,created_at
+0,Ice-Hazymoon/openai-scf-proxy,701,JavaScript,使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理,2023-03-06
+1,prompt-engineering/click-prompt,439,TypeScript,"ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。",2023-03-03
+2,TBXark/ChatGPT-Telegram-Workers,1393,JavaScript,Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.,2023-03-03
+3,reorx/awesome-chatgpt-api,2502,,"Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",2023-03-04
+4,yetone/openai-translator,3385,TypeScript,基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用,2023-03-04
+5,davinci1010/pinduoduo_backdoor,1787,,拼多多apk内嵌提权代码，及动态下发dex分析,2023-03-07
+6,shawwn/llama-dl,1707,Shell,"High-speed download of LLaMA, Facebook's 65B parameter GPT model",2023-03-05
+7,piglei/ai-vocabulary-builder,398,Python,一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。,2023-03-04
+8,beyondcode/writeout.ai,389,PHP,Transcribe and translate your audio files - for free,2023-03-07
+9,yetone/bob-plugin-openai-polisher,382,JavaScript,使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！,2023-03-03
+10,lcomplete/huntly,417,Java,"Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。",2023-03-05
+11,keijiro/AIShader,996,C#,ChatGPT-powered shader generator for Unity,2023-03-05

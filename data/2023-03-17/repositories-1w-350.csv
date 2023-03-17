@@ -1,0 +1,9 @@
+,full_name,stargazers_count,language,description,created_at
+0,tloen/alpaca-lora,1217,Jupyter Notebook,Finetuning InstructLLaMA on consumer hardware,2023-03-13
+1,whoiskatrin/sql-translator,1574,TypeScript,SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.,2023-03-11
+2,cocktailpeanut/dalai,2068,JavaScript,The simplest way to run LLaMA on your local machine,2023-03-12
+3,mpoon/gpt-repository-loader,391,Python,,2023-03-16
+4,THUDM/ChatGLM-6B,4861,Python,ChatGLM-6B：开源双语对话语言模型  | An open bilingual dialogue language model,2023-03-13
+5,setzer22/llama-rs,926,Rust,"Run LLaMA inference on CPU, with Rust 🦀🚀🦙",2023-03-13
+6,dreamworksanimation/openmoonray,1763,CMake,,2023-03-14
+7,mckaywrigley/chatbot-ui,368,TypeScript,"A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.",2023-03-11

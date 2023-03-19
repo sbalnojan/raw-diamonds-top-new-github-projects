@@ -1,0 +1,10 @@
+,full_name,stargazers_count,language,description,created_at
+0,THUDM/ChatGLM-6B,6134,Python,ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model,2023-03-13
+1,josStorer/chatGPTBox,508,JavaScript,"Integrating ChatGPT into your browser deeply, everything you need is here",2023-03-15
+2,tloen/alpaca-lora,2612,Jupyter Notebook,Instruct-tune LLaMA on consumer hardware,2023-03-13
+3,mpoon/gpt-repository-loader,903,Python,Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.,2023-03-16
+4,jtmuller5/The-HustleGPT-Challenge,595,,Building Startups with an AI Co-Founder,2023-03-16
+5,setzer22/llama-rs,1407,Rust,"Run LLaMA inference on CPU, with Rust 🦀🚀🦙",2023-03-13
+6,dreamworksanimation/openmoonray,2486,CMake,,2023-03-14
+7,anysphere/gpt-4-for-code,352,C++,Some examples of GPT-4 for code!,2023-03-14
+8,cvlab-columbia/viper,578,,"Code for the paper ""ViperGPT: Visual Inference via Python Execution for Reasoning""",2023-03-14

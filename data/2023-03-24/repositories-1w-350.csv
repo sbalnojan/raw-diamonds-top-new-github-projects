@@ -1,0 +1,15 @@
+,full_name,stargazers_count,language,description,created_at
+0,openai/chatgpt-retrieval-plugin,3901,Python,,2023-03-23
+1,enricoros/nextjs-chatgpt-app,552,TypeScript,"💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.",2023-03-19
+2,npiv/chatblade,1476,Python,A CLI Swiss Army Knife for ChatGPT,2023-03-19
+3,nishiwen1214/ChatReviewer,382,Python,ChatReviewer: use ChatGPT to review papers; ChatResponse: use ChatGPT to respond to reviewers.,2023-03-18
+4,evanw/thumbhash,1495,Swift,A very compact representation of an image placeholder,2023-03-22
+5,nsarrazin/serge,993,Python,"A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",2023-03-19
+6,keijiro/AICommand,2540,C#,ChatGPT integration with Unity Editor,2023-03-18
+7,lxe/simple-llama-finetuner,928,Jupyter Notebook,Simple UI for LLaMA Model Finetuning,2023-03-22
+8,Helixform/CodeCursor,452,Rust,An extension for using Cursor in Visual Studio Code. ,2023-03-21
+9,TheExplainthis/AI-Products-All-In-One,679,,彙整了真正實用的 ChatGPT 與生成式 AI 工具,2023-03-18
+10,Beomi/KoAlpaca,511,Jupyter Notebook,KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko),2023-03-18
+11,nichtdax/awesome-totally-open-chatgpt,2278,,A list of totally open alternatives to ChatGPT,2023-03-18
+12,ryh04x/CEH-Exam-Questions,394,,Planning To Take Certified Ethical Hacker (CEH)?  Here are github repo with 125 questions and answers to help you prep for the test,2023-03-19
+13,biobootloader/wolverine,492,Python,,2023-03-18

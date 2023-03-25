@@ -1,0 +1,12 @@
+,full_name,stargazers_count,language,description,created_at
+0,nsarrazin/serge,1670,Python,"A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",2023-03-19
+1,openai/chatgpt-retrieval-plugin,5964,Python,,2023-03-23
+2,LC1332/Chinese-alpaca-lora,541,Jupyter Notebook,骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技,2023-03-21
+3,lukasHoel/text2room,388,Python,Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.,2023-03-21
+4,lxe/simple-llama-finetuner,993,Jupyter Notebook,Simple UI for LLaMA Model Finetuning,2023-03-22
+5,npiv/chatblade,1558,Python,A CLI Swiss Army Knife for ChatGPT,2023-03-19
+6,enricoros/nextjs-chatgpt-app,581,TypeScript,"💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.",2023-03-19
+7,databrickslabs/dolly,496,Python,,2023-03-24
+8,Helixform/CodeCursor,673,Rust,An extension for using Cursor in Visual Studio Code. ,2023-03-21
+9,evanw/thumbhash,1717,Swift,A very compact representation of an image placeholder,2023-03-22
+10,ryh04x/CEH-Exam-Questions,420,,Planning To Take Certified Ethical Hacker (CEH)?  Here are github repo with 125 questions and answers to help you prep for the test,2023-03-19

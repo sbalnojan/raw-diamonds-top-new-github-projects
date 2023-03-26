@@ -1,0 +1,14 @@
+,full_name,stargazers_count,language,description,created_at
+0,binary-husky/chatgpt_academic,539,Python,中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,2023-03-20
+1,gururise/AlpacaDataCleaned,358,Python,"Alpaca dataset from Stanford, cleaned and curated",2023-03-21
+2,context-labs/autodoc,577,TypeScript,Experimental toolkit for auto-generating codebase documentation using LLMs,2023-03-22
+3,evanw/thumbhash,1856,Swift,A very compact representation of an image placeholder,2023-03-22
+4,openai/chatgpt-retrieval-plugin,7274,Python,,2023-03-23
+5,Helixform/CodeCursor,734,Rust,An extension for using Cursor in Visual Studio Code. ,2023-03-21
+6,sahil280114/codealpaca,408,Python,,2023-03-22
+7,databrickslabs/dolly,996,Python,,2023-03-24
+8,LC1332/Chinese-alpaca-lora,726,Jupyter Notebook,骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技,2023-03-21
+9,cisagov/untitledgoosetool,379,Python,"Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",2023-03-22
+10,lxe/simple-llama-finetuner,1025,Jupyter Notebook,Simple UI for LLaMA Model Finetuning,2023-03-22
+11,gd3kr/BlenderGPT,478,Python,Use commands in English to control Blender with OpenAI's GPT-4,2023-03-21
+12,lukasHoel/text2room,427,Python,Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.,2023-03-21

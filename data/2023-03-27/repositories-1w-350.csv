@@ -1,0 +1,16 @@
+,full_name,stargazers_count,language,description,created_at
+0,LC1332/Chinese-alpaca-lora,1072,Jupyter Notebook,骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技,2023-03-21
+1,openai/chatgpt-retrieval-plugin,9087,Python,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,2023-03-23
+2,HamburgChimps/apple-notes-liberator,406,Java,Free your Apple Notes data from Notes.app,2023-03-26
+3,lxfater/Portal,544,TypeScript,,2023-03-26
+4,context-labs/autodoc,666,TypeScript,Experimental toolkit for auto-generating codebase documentation using LLMs,2023-03-22
+5,databrickslabs/dolly,1710,Python,,2023-03-24
+6,cisagov/untitledgoosetool,447,Python,"Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",2023-03-22
+7,gururise/AlpacaDataCleaned,416,Python,"Alpaca dataset from Stanford, cleaned and curated",2023-03-21
+8,lxe/simple-llama-finetuner,1071,Jupyter Notebook,Simple UI for LLaMA Model Finetuning,2023-03-22
+9,Helixform/CodeCursor,791,Rust,An extension for using Cursor in Visual Studio Code. ,2023-03-21
+10,evanw/thumbhash,1955,Swift,A very compact representation of an image placeholder,2023-03-22
+11,sahil280114/codealpaca,583,Python,,2023-03-22
+12,Picsart-AI-Research/Text2Video-Zero,472,,Text-to-Image Diffusion Models are Zero-Shot Video Generators,2023-03-21
+13,gd3kr/BlenderGPT,1195,Python,Use commands in English to control Blender with OpenAI's GPT-4,2023-03-21
+14,lukasHoel/text2room,452,Python,Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.,2023-03-21

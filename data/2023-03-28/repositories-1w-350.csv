@@ -1,0 +1,11 @@
+,full_name,stargazers_count,language,description,created_at
+0,databrickslabs/dolly,2529,Python,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",2023-03-24
+1,lxfater/Portal,1088,TypeScript,,2023-03-26
+2,openai/chatgpt-retrieval-plugin,10190,Python,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,2023-03-23
+3,HamburgChimps/apple-notes-liberator,614,Java,Free your Apple Notes data from Notes.app,2023-03-26
+4,davincifans101/pinduoduo_backdoor_detailed_report,355,,Maybe the most detailed analysis of pdd  backdoors,2023-03-27
+5,context-labs/autodoc,756,TypeScript,Experimental toolkit for auto-generating codebase documentation using LLMs,2023-03-22
+6,sahil280114/codealpaca,678,Python,,2023-03-22
+7,cisagov/untitledgoosetool,523,Python,"Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",2023-03-22
+8,lxe/simple-llama-finetuner,1103,Jupyter Notebook,Simple UI for LLaMA Model Finetuning,2023-03-22
+9,evanw/thumbhash,2022,Swift,A very compact representation of an image placeholder,2023-03-22

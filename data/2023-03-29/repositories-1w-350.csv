@@ -1,0 +1,10 @@
+,full_name,stargazers_count,language,description,created_at
+0,lxfater/Portal,1323,TypeScript,,2023-03-26
+1,PhoebusSi/Alpaca-CoT,373,Jupyter Notebook,We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data. The instruction collection can be found at https://huggingface.co/datasets/QingyiSi/Alpaca-CoT/tree/main （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集。）,2023-03-24
+2,nomic-ai/gpt4all,3225,Python,"gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",2023-03-27
+3,openai/chatgpt-retrieval-plugin,10877,Python,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,2023-03-23
+4,TaxyAI/browser-extension,790,TypeScript,Automate your browser with GPT-4,2023-03-27
+5,databrickslabs/dolly,3031,Python,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",2023-03-24
+6,HamburgChimps/apple-notes-liberator,682,Java,Free your Apple Notes data from Notes.app,2023-03-26
+7,davincifans101/pinduoduo_backdoor_detailed_report,786,,Maybe the most detailed analysis of pdd  backdoors,2023-03-27
+8,liyupi/yu-auto-reply,373,Java,AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答,2023-03-24

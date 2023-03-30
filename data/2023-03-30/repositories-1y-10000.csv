@@ -1,0 +1,62 @@
+,full_name,stargazers_count,language,description,created_at
+0,yetone/openai-translator,12731,TypeScript,基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.,2023-03-04
+1,LAION-AI/Open-Assistant,20091,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",2022-12-13
+2,binary-husky/chatgpt_academic,11762,Python,科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,2023-03-20
+3,openai/openai-cookbook,23604,Jupyter Notebook,Examples and guides for using the OpenAI API,2022-03-11
+4,huggingface/diffusers,12494,Python,🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch,2022-05-30
+5,lensterxyz/lenster,18255,TypeScript,"Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 ",2022-03-19
+6,getcursor/cursor,10053,TypeScript,An editor made for programming with AI 🤖,2023-03-12
+7,toeverything/AFFiNE,13932,TypeScript," There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",2022-07-31
+8,ggerganov/llama.cpp,15666,C,Port of Facebook's LLaMA model in C/C++,2023-03-10
+9,openai/whisper,30385,Python,Robust Speech Recognition via Large-Scale Weak Supervision,2022-09-16
+10,motion-canvas/motion-canvas,10676,TypeScript,Visualize Complex Ideas Programmatically,2022-08-03
+11,openai/chatgpt-retrieval-plugin,11493,Python,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,2023-03-23
+12,invoke-ai/InvokeAI,12494,Jupyter Notebook,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",2022-08-17
+13,hwchase17/langchain,17786,Python,⚡ Building applications with LLMs through composability ⚡,2022-10-17
+14,AUTOMATIC1111/stable-diffusion-webui,55637,Python,Stable Diffusion web UI,2022-08-22
+15,THUDM/ChatGLM-6B,10945,Python,ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model,2023-03-13
+16,terrastruct/d2,11462,Go,D2 is a modern diagram scripting language that turns text to diagrams.,2022-09-05
+17,fuergaosi233/wechat-chatgpt,10496,TypeScript,Use ChatGPT On Wechat via wechaty,2022-12-06
+18,ggerganov/whisper.cpp,13823,C,Port of OpenAI's Whisper model in C/C++,2022-09-25
+19,microsoft/visual-chatgpt,27290,Python,"Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",2023-03-02
+20,Chanzhaoyu/chatgpt-web,12234,Vue,用 Express 和  Vue3 搭建的 ChatGPT 演示网页,2023-02-09
+21,charliermarsh/ruff,11302,Rust,"An extremely fast Python linter, written in Rust.",2022-08-09
+22,Stability-AI/stablediffusion,16407,Python,High-Resolution Image Synthesis with Latent Diffusion Models,2022-11-23
+23,charmbracelet/gum,12664,Go,A tool for glamorous shell scripts 🎀,2022-06-10
+24,samber/lo,10752,Go,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",2022-03-02
+25,CodeEditApp/CodeEdit,17079,Swift,"CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",2022-03-10
+26,transitive-bullshit/chatgpt-api,12120,TypeScript,Node.js client for the official ChatGPT API. 🔥,2022-12-03
+27,tatsu-lab/stanford_alpaca,16615,Python,"Code and documentation to train Stanford's Alpaca models, and generate the data.",2023-03-10
+28,f/awesome-chatgpt-prompts,56125,HTML,This repo includes ChatGPT prompt curation to use ChatGPT better.,2022-12-05
+29,charmbracelet/vhs,10077,Go,Your CLI home video recorder 📼,2022-07-19
+30,google/comprehensive-rust,11124,Rust,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,2022-12-21
+31,t3-oss/create-t3-app,15917,TypeScript,"The best way to start a full-stack, typesafe Next.js app ",2022-05-24
+32,fathyb/carbonyl,11860,Rust,Chromium running inside your terminal,2023-01-20
+33,android/nowinandroid,10592,Kotlin,A fully functional Android app built entirely with Kotlin and Jetpack Compose,2022-04-19
+34,shadcn/ui,10158,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+35,karpathy/nanoGPT,16459,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",2022-12-28
+36,lllyasviel/ControlNet,15583,Python,Let us control diffusion models!,2023-02-01
+37,facebookresearch/llama,15051,Python,Inference code for LLaMA models,2023-02-14
+38,InterviewReady/system-design-resources,10050,,These are the best resources for System Design on the Internet,2022-05-19
+39,acheong08/ChatGPT,22566,Python,Reverse engineered ChatGPT API,2022-12-03
+40,fauxpilot/fauxpilot,10331,Python,FauxPilot - an open-source alternative to GitHub Copilot server,2022-08-03
+41,pocketbase/pocketbase,22110,Go,Open Source realtime backend in 1 file,2022-07-05
+42,lencx/ChatGPT,27532,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",2022-12-07
+43,mouredev/Hello-Python,10151,Python,"Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",2022-08-03
+44,base-org/node,22413,Shell,Everything required to run your own Base node,2023-02-01
+45,upscayl/upscayl,10927,TypeScript,"🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",2022-07-30
+46,tw93/Pake,12958,Rust,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,2022-10-14
+47,PlexPt/awesome-chatgpt-prompts-zh,24721,,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。,2022-12-12
+48,Grasscutters/Grasscutter,12834,Java,A server software reimplementation for a certain anime game.,2022-04-17
+49,dair-ai/Prompt-Engineering-Guide,19008,Jupyter Notebook,"🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",2022-12-16
+50,karanpratapsingh/system-design,15057,,Learn how to design systems at scale and prepare for system design interviews,2022-08-15
+51,bloomberg/memray,10312,Python,Memray is a memory profiler for Python,2022-04-08
+52,NVIDIA/open-gpu-kernel-modules,12971,C,NVIDIA Linux open GPU kernel module source,2022-05-02
+53,google-research/tuning_playbook,17771,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+54,sismo-core/sismo-protocol,16152,TypeScript,Contracts of the Sismo Attestation Protocol ,2022-06-16
+55,CompVis/stable-diffusion,48426,Jupyter Notebook,A latent text-to-image diffusion model,2022-08-10
+56,wong2/chatgpt-google-extension,12558,TypeScript,A browser extension that enhance search engines with ChatGPT,2022-12-04
+57,WeNeedHome/SummaryOfLoanSuspension,20254,HTML,全国各省市停贷通知汇总,2022-07-12
+58,atelier-anchor/smiley-sans,10739,HTML,得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体,2022-11-11
+59,The-Run-Philosophy-Organization/run,25491,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。,2022-04-10
+60,geekan/HowToLiveLonger,22387,,程序员延寿指南 | A programmer's guide to live longer,2022-04-16

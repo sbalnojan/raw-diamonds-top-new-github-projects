@@ -1,0 +1,11 @@
+,full_name,stargazers_count,language,description,created_at
+0,lxfater/Portal,1421,TypeScript,,2023-03-26
+1,HamburgChimps/apple-notes-liberator,706,Java,Free your Apple Notes data from Notes.app,2023-03-26
+2,PhoebusSi/Alpaca-CoT,481,Jupyter Notebook,"We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）",2023-03-24
+3,zema1/watchvuln,373,Go,一个高价值漏洞采集与推送服务 | A valueable vulnerability collection and push service,2023-03-25
+4,nomic-ai/gpt4all,8870,Python,"gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",2023-03-27
+5,Project-DARC/DARC,406,Solidity,Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.,2023-03-27
+6,TaxyAI/browser-extension,1733,TypeScript,Automate your browser with GPT-4,2023-03-27
+7,databrickslabs/dolly,3415,Python,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",2023-03-24
+8,davincifans101/pinduoduo_backdoor_detailed_report,925,,Maybe the most detailed analysis of pdd  backdoors,2023-03-27
+9,liyupi/yu-auto-reply,407,Java,AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答,2023-03-24

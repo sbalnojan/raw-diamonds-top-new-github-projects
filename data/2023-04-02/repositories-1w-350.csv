@@ -1,0 +1,16 @@
+,full_name,stargazers_count,language,description,created_at
+0,RosettaCommons/RFdiffusion,570,Python,Code for running RFdiffusion,2023-03-28
+1,twitter/the-algorithm,34274,Scala,Source code for Twitter's Recommendation Algorithm,2023-03-27
+2,Project-DARC/DARC,586,Solidity,Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.,2023-03-27
+3,yakGPT/yakGPT,721,TypeScript,"Locally running, hands-free ChatGPT",2023-03-30
+4,mckaywrigley/ai-code-translator,357,TypeScript,Use AI to translate code from one language to another.,2023-03-31
+5,OptimalScale/LMFlow,596,JavaScript,An Extensible Toolkit for Finetuning and Inference of Large Foundation Models,2023-03-27
+6,nomic-ai/gpt4all,16679,Python,"gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",2023-03-27
+7,hahahumble/speechgpt,1010,TypeScript,SpeechGPT is a web application that enables you to converse with ChatGPT.,2023-03-28
+8,twitter/the-algorithm-ml,4840,Python,Source code for Twitter's Recommendation Algorithm,2023-03-27
+9,microsoft/JARVIS,872,Python,"JARVIS, a system to connect LLMs with ML community",2023-03-30
+10,TaxyAI/browser-extension,3006,TypeScript,Automate your browser with GPT-4,2023-03-27
+11,osanseviero/ml_timeline,362,,,2023-03-27
+12,AetherCortex/Llama-X,736,Python,Open Academic Research on Improving LLaMA to SOTA LLM,2023-03-30
+13,jesselau76/GPT-Prompts,484,,Useful GPT Prompts,2023-03-30
+14,davincifans101/pinduoduo_backdoor_detailed_report,1073,,Maybe the most detailed analysis of pdd  backdoors,2023-03-27

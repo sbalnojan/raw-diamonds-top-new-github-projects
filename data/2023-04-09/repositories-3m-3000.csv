@@ -1,0 +1,83 @@
+,full_name,stargazers_count,language,description,created_at
+0,Torantulino/Auto-GPT,17975,Python,An experimental open-source attempt to make GPT-4 fully autonomous.,2023-03-16
+1,THUDM/ChatGLM-6B,14712,Python,ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model,2023-03-13
+2,OptimalScale/LMFlow,3676,Python,An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.,2023-03-27
+3,yoheinakajima/babyagi,4940,Python,,2023-04-03
+4,xx025/carrot,7311,,Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点,2023-03-05
+5,cocktailpeanut/dalai,9530,CSS,The simplest way to run LLaMA on your local machine,2023-03-12
+6,svc-develop-team/so-vits-svc,3708,Python,SoftVC VITS Singing Voice Conversion,2023-03-10
+7,microsoft/JARVIS,12803,Python,"JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",2023-03-30
+8,twitter/the-algorithm-ml,8388,Python,Source code for Twitter's Recommendation Algorithm,2023-03-27
+9,lm-sys/FastChat,11114,Python,"The release repo for ""Vicuna: An Open Chatbot Impressing GPT-4""",2023-03-19
+10,ddiu8081/chatgpt-demo,6164,TypeScript,A demo repo based on OpenAI API.,2023-03-02
+11,comfyanonymous/ComfyUI,4501,Python,A powerful and modular stable diffusion GUI with a graph/nodes interface.,2023-01-17
+12,Yidadaa/ChatGPT-Next-Web,13511,TypeScript,One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。,2023-03-10
+13,microsoft/visual-chatgpt,29947,Python,"Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",2023-03-02
+14,GaiZhenbiao/ChuanhuChatGPT,8323,Python,GUI for ChatGPT API,2023-03-02
+15,ymcui/Chinese-LLaMA-Alpaca,3441,Python,中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs),2023-03-15
+16,ggerganov/llama.cpp,20789,C,Port of Facebook's LLaMA model in C/C++,2023-03-10
+17,madawei2699/myGPTReader,3448,Python,A community-driven way to read and chat with AI bots - powered by chatGPT.,2023-03-08
+18,LianjiaTech/BELLE,3506,HTML,BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）,2023-03-17
+19,binary-husky/chatgpt_academic,24302,Python,科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能,2023-03-20
+20,facebookresearch/segment-anything,19952,Jupyter Notebook,"The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",2023-03-23
+21,acheong08/EdgeGPT,5218,Python,Reverse engineered API of Microsoft's Bing Chat AI,2023-02-09
+22,mckaywrigley/chatbot-ui,9189,TypeScript,An open source ChatGPT UI.,2023-03-11
+23,Chanzhaoyu/chatgpt-web,15884,Vue,用 Express 和  Vue3 搭建的 ChatGPT 演示网页,2023-02-09
+24,mrsked/mrsk,4977,Ruby,Deploy web apps anywhere.,2023-01-07
+25,Bin-Huang/chatbox,7191,TypeScript,"the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.",2023-03-06
+26,openai/chatgpt-retrieval-plugin,13440,Python,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,2023-03-23
+27,yzfly/awesome-chatgpt-zh,3465,,ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! ,2023-03-21
+28,nsarrazin/serge,3424,Python,"A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",2023-03-19
+29,TheR1D/shell_gpt,3979,Python,"A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",2023-01-18
+30,Nutlope/aicommits,4750,TypeScript,A CLI that writes your git commit messages for you with AI,2023-02-14
+31,twitter/the-algorithm,52778,Scala,Source code for Twitter's Recommendation Algorithm,2023-03-27
+32,nomic-ai/gpt4all,25539,Python,"gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",2023-03-27
+33,logspace-ai/langflow,3761,Python,"⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",2023-02-08
+34,shadcn/ui,10773,TypeScript,Beautifully designed components built with Radix UI and Tailwind CSS.,2023-01-04
+35,facebookresearch/llama,17143,Python,Inference code for LLaMA models,2023-02-14
+36,openai/evals,7773,Python,Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.,2023-01-23
+37,kaixindelele/ChatPaper,8057,Python,Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复,2023-03-08
+38,BlinkDL/ChatRWKV,5400,Python,"ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",2023-01-13
+39,arc53/DocsGPT,4329,Python,GPT-powered chat for documentation search & assistance.,2023-02-02
+40,josStorer/chatGPTBox,5500,JavaScript,"Integrating ChatGPT into your browser deeply, everything you need is here",2023-03-15
+41,chathub-dev/chathub,3862,TypeScript,All-in-one chatbot client,2023-03-04
+42,yihong0618/bilingual_book_maker,5050,Python,Make bilingual epub books Using AI translate,2023-03-02
+43,dice2o/BingGPT,3487,JavaScript,"Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",2023-02-16
+44,lllyasviel/ControlNet,16511,Python,Let us control diffusion models!,2023-02-01
+45,getcursor/cursor,13200,TypeScript,An editor made for programming with AI 🤖,2023-03-12
+46,TaxyAI/browser-extension,3758,TypeScript,Automate your browser with GPT-4,2023-03-27
+47,microsoft/semantic-kernel,4634,C#,Integrate cutting-edge LLM technology quickly and easily into your apps,2023-02-27
+48,tloen/alpaca-lora,8898,Jupyter Notebook,Instruct-tune LLaMA on consumer hardware,2023-03-13
+49,yetone/openai-translator,14116,TypeScript,基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.,2023-03-04
+50,dair-ai/ML-Papers-Explained,4126,,Explanation to key concepts in ML,2023-01-12
+51,rockbenben/ChatGPT-Shortcut,3181,TypeScript,Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。,2023-02-24
+52,Mikubill/sd-webui-controlnet,6137,Python,WebUI extension for ControlNet,2023-02-12
+53,ServiceWeaver/weaver,3223,Go,Programming framework for writing and deploying cloud applications.,2023-01-04
+54,togethercomputer/OpenChatKit,7372,Python,,2023-03-03
+55,dreamworksanimation/openmoonray,3651,CMake,,2023-03-14
+56,Kanaries/pygwalker,4910,Python,PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis,2023-02-16
+57,total-typescript/ts-reset,5628,TypeScript,"A 'CSS reset' for TypeScript, improving types for common JavaScript API's",2023-02-19
+58,waylaidwanderer/node-chatgpt-api,3033,JavaScript,"A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.",2023-01-07
+59,reorx/awesome-chatgpt-api,4108,Python,"Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",2023-03-04
+60,yetone/bob-plugin-openai-translator,4363,JavaScript,基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！,2023-02-19
+61,mayooear/gpt4-pdf-chatbot-langchain,6288,TypeScript,GPT4 & LangChain Chatbot for large PDF docs,2023-03-17
+62,Nutlope/roomGPT,6608,TypeScript,Upload a photo of your room to generate your dream room with AI.,2023-02-21
+63,Leizhenpeng/feishu-chatgpt,3062,Go,🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀,2023-02-07
+64,databrickslabs/dolly,4307,Python,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",2023-03-24
+65,futantan/OpenGpt,3245,TypeScript,Create your own ChatGPT App in seconds.,2023-03-03
+66,tatsu-lab/stanford_alpaca,19317,Python,"Code and documentation to train Stanford's Alpaca models, and generate the data.",2023-03-10
+67,Haxxnet/Compose-Examples,3115,,Various Docker Compose examples of selfhosted FOSS and proprietary projects.,2023-02-13
+68,base-org/node,27424,Shell,Everything required to run your own Base node,2023-02-01
+69,gd3kr/BlenderGPT,3176,Python,Use commands in English to control Blender with OpenAI's GPT-4,2023-03-21
+70,nichtdax/awesome-totally-open-chatgpt,3144,,A list of totally open alternatives to ChatGPT,2023-03-18
+71,natemoo-re/clack,3417,TypeScript,Effortlessly build beautiful command-line apps,2023-02-08
+72,fathyb/carbonyl,12014,Rust,Chromium running inside your terminal,2023-01-20
+73,keijiro/AICommand,3241,C#,ChatGPT integration with Unity Editor,2023-03-18
+74,davinci1010/pinduoduo_backdoor,4820,,拼多多apk内嵌提权代码，及动态下发dex分析,2023-03-07
+75,FMInference/FlexGen,7725,Python,Running large language models on a single GPU for throughput-oriented scenarios.,2023-02-15
+76,amazon-science/mm-cot,3201,Python,"Official implementation for ""Multimodal Chain-of-Thought Reasoning in Language Models"" (stay tuned and more will be updated)",2023-02-02
+77,sourcegraph/conc,6487,Go,Better structured concurrency for go,2023-01-02
+78,varunshenoy/GraphGPT,3152,JavaScript,Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️,2023-01-31
+79,google-research/tuning_playbook,17977,,A playbook for systematically maximizing the performance of deep learning models.,2023-01-18
+80,DvorakDwarf/Infinite-Storage-Glitch,9737,Rust,"ISG lets you use YouTube as cloud storage for ANY files, not just video",2023-02-14
+81,timothybrooks/instruct-pix2pix,4215,Python,,2023-01-09

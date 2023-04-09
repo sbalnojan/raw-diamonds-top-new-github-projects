@@ -1,0 +1,13 @@
+,full_name,stargazers_count,language,description,created_at
+0,yoheinakajima/babyagi,4940,Python,,2023-04-03
+1,IDEA-Research/Grounded-Segment-Anything,765,Jupyter Notebook,"Marrying Grounding DINO with Segment Anything & Stable Diffusion - Detect , Segment and Generate Anything with Text Inputs",2023-04-06
+2,BuilderIO/ai-shell,454,TypeScript,A CLI that converts natural language to shell commands.,2023-04-05
+3,codediodeio/rektor-db,431,,Rektor Vector Database,2023-04-07
+4,nomic-ai/pyllamacpp,455,C++,Official supported Python bindings for llama.cpp + gpt4all,2023-04-03
+5,Instruction-Tuning-with-GPT-4/GPT-4-LLM,616,HTML,,2023-04-06
+6,bitloops/ddd-hexagonal-cqrs-es-eda,600,TypeScript,"Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star! ⭐ ^^^",2023-04-04
+7,VideoCrafter/VideoCrafter,963,Python,A Toolkit for Text-to-Video Generation and Editing,2023-04-03
+8,XiaoliChan/wmiexec-Pro,401,Python,New generation of wmiexec.py,2023-04-04
+9,barretlee/cloudflare-proxy,538,JavaScript,Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出,2023-04-03
+10,michael/editable-website,602,Svelte,A SvelteKit template for building CMS-free editable websites ,2023-04-04
+11,mpaepper/llm_agents,509,Python,Build agents which are controlled by LLMs,2023-04-04

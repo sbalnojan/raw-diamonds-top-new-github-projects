@@ -1,0 +1,97 @@
+,full_name,stargazers_count,language,description,created_at
+0,Stability-AI/generative-models,3208,Python,Generative Models by Stability AI,2023-06-22
+1,karpathy/llama2.c,6643,Python,Inference Llama 2 in one file of pure C,2023-07-23
+2,chat2db/Chat2DB,5730,Java,🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具),2023-06-20
+3,sunner/ChatALL,8321,JavaScript," Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",2023-04-08
+4,Tohrusky/Final2x,3003,TypeScript,2^x Image Super-Resolution ☢️,2023-06-19
+5,StanGirard/quivr,18581,TypeScript,"🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ",2023-05-12
+6,datawhalechina/prompt-engineering-for-developers,5691,Jupyter Notebook,吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》,2023-04-28
+7,TransformerOptimus/SuperAGI,10846,Python,"<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",2023-05-13
+8,langgenius/dify,5730,TypeScript,"One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",2023-04-12
+9,PromtEngineer/localGPT,12969,Python,Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ,2023-05-24
+10,Shaunwei/RealChar,4070,Swift,"🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖",2023-06-26
+11,csunny/DB-GPT,5591,Python,Revolutionizing Database Interactions with Private LLM Technology,2023-04-13
+12,bentoml/OpenLLM,5276,Python,Operating LLMs in production,2023-04-19
+13,gventuri/pandas-ai,7958,Python,"Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",2023-04-22
+14,xiangsx/gpt4free-ts,6201,TypeScript,Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free,2023-05-04
+15,Significant-Gravitas/Auto-GPT-Plugins,3431,Python,Plugins for Auto-GPT,2023-04-09
+16,THUDM/ChatGLM2-6B,10128,Python,ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型,2023-06-24
+17,ramonvc/freegpt-webui,3989,Python,GPT 3.5/4 with a Chat Web UI. No API key required.,2023-06-04
+18,geekan/MetaGPT,6255,Python,"🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",2023-06-30
+19,haotian-liu/LLaVA,3926,Python,Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.,2023-04-17
+20,CASIA-IVA-Lab/FastSAM,5031,Python,Fast Segment Anything,2023-06-21
+21,reworkd/AgentGPT,25239,TypeScript,"🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",2023-04-07
+22,microsoft/TypeChat,3608,TypeScript,TypeChat is a library that makes it easy to build natural language interfaces using types.,2023-06-20
+23,dabeaz-course/python-mastery,6729,Python,Advanced Python Mastery (course by @dabeaz),2023-07-17
+24,mlc-ai/mlc-llm,10986,Python,"Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",2023-04-29
+25,jmorganca/ollama,3032,C,Get up and running with large language models locally,2023-06-26
+26,nlpxucan/WizardLM,4332,Python,"Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",2023-04-23
+27,embedchain/embedchain,3726,Python,Framework to easily create LLM powered bots over any dataset.,2023-06-20
+28,mitsuhiko/rye,6646,Rust,An Experimental Package Management Solution for Python,2023-04-22
+29,Blazity/next-enterprise,3971,TypeScript,"💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",2023-04-21
+30,s0md3v/roop,17475,Python,one-click deepfake (face swap),2023-05-28
+31,crablang/crab,4860,Rust,"A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! ",2023-04-11
+32,dsdanielpark/Bard-API,3896,Python,The unofficial python package that returns response of Google Bard through cookie value.,2023-05-11
+33,artidoro/qlora,6834,Jupyter Notebook,QLoRA: Efficient Finetuning of Quantized LLMs,2023-05-11
+34,a16z-infra/companion-app,4220,TypeScript,AI companions with memory: a lightweight stack to create and host your own AI companions,2023-06-22
+35,openchatai/OpenChat,4308,Blade,LLMs custom-chatbots console ⚡,2023-05-30
+36,adams549659584/go-proxy-bingai,7528,HTML,用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。,2023-05-03
+37,sadmann7/skateshop,3741,TypeScript,An open source e-commerce skateshop build with everything new in Next.js 13.,2023-05-03
+38,mlc-ai/web-llm,6709,TypeScript,Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.,2023-04-13
+39,AntonOsika/gpt-engineer,39475,Python,"Specify what you want it to build, the AI asks for clarification, and then builds it.",2023-04-29
+40,Stability-AI/StableStudio,7220,TypeScript,Community interface for generative AI,2023-04-21
+41,BradyFU/Awesome-Multimodal-Large-Language-Models,3302,,":sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",2023-05-19
+42,IDEA-Research/Grounded-Segment-Anything,10006,Jupyter Notebook,"Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",2023-04-06
+43,vercel-labs/ai,3756,TypeScript,"Build AI-powered applications with React, Svelte, Vue, and Solid",2023-05-23
+44,binpash/try,4508,Shell,Inspect a command's effects before modifying your live system,2023-05-17
+45,ShishirPatil/gorilla,4674,Python,Gorilla: An API store for LLMs,2023-05-19
+46,chatanywhere/GPT_API_free,3155,Python,Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。,2023-04-23
+47,Licoy/ChatGPT-Midjourney,4162,TypeScript,🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click,2023-06-05
+48,imartinez/privateGPT,34168,Python,"Interact privately with your documents using the power of GPT, 100% privately, no data leaks",2023-05-02
+49,smol-ai/developer,10456,Python,the first library to let you embed a developer agent in your own app!,2023-05-13
+50,ravenscroftj/turbopilot,3649,Python,Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU,2023-04-09
+51,yoheinakajima/babyagi,16250,Python,,2023-04-03
+52,0xpayne/gpt-migrate,6011,Python,Easily migrate your codebase from one framework or language to another.,2023-06-24
+53,MineDojo/Voyager,3793,JavaScript,An Open-Ended Embodied Agent with Large Language Models,2023-05-25
+54,sindresorhus/awesome-chatgpt,3217,,🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI,2023-05-02
+55,ClassmateLin/dm-ticket,7192,Rust,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",2023-05-22
+56,a16z-infra/ai-getting-started,3410,TypeScript,"A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",2023-06-16
+57,mshumer/gpt-prompt-engineer,4114,Jupyter Notebook,,2023-07-04
+58,eugeneyan/open-llms,7486,,📋 A list of open LLMs available for commercial use.,2023-05-05
+59,modularml/mojo,9054,,The Mojo Programming Language,2023-04-28
+60,suno-ai/bark,23658,Jupyter Notebook,🔊 Text-Prompted Generative Audio Model,2023-04-07
+61,UX-Decoder/Segment-Everything-Everywhere-All-At-Once,3095,Python,"Official implementation of the paper ""Segment Everything Everywhere All at Once""",2023-04-12
+62,SevaSk/ecoute,4845,Python,Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.,2023-05-08
+63,XingangPan/DragGAN,31390,Python,Official Code for DragGAN (SIGGRAPH 2023),2023-05-18
+64,THUDM/VisualGLM-6B,3071,Python,Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型,2023-04-23
+65,OpenGVLab/DragGAN,4780,Python,"Unofficial Implementation of DragGAN - ""Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",2023-05-20
+66,xitanggg/open-resume,3373,TypeScript,OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/,2023-06-24
+67,openlm-research/open_llama,6371,,"OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset",2023-04-28
+68,whoiskatrin/chart-gpt,3194,TypeScript,AI tool to build charts based on text input,2023-04-23
+69,imgly/background-removal-js,3270,TypeScript,Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.,2023-06-23
+70,facebookresearch/audiocraft,8854,Python,"Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",2023-06-08
+71,PKU-YuanGroup/ChatLaw,4373,,中文法律大模型,2023-06-07
+72,princeton-vl/infinigen,4242,Python,Infinite Photorealistic Worlds using Procedural Generation,2023-06-17
+73,openai/plugins-quickstart,3591,Python,Get a ChatGPT plugin up and running in under 5 minutes!,2023-04-06
+74,openai/shap-e,10116,Python,Generate 3D objects conditioned on text or images,2023-04-19
+75,gaomingqi/Track-Anything,5077,Python,"Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",2023-04-12
+76,OpenLMLab/MOSS,11260,Python,An open-source tool-augmented conversational language model from Fudan University,2023-04-15
+77,Mooler0410/LLMsPracticalGuide,5781,,"A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",2023-04-23
+78,baichuan-inc/Baichuan-7B,4679,Python,A large-scale 7B pretraining language model developed by BaiChuan-Inc.,2023-06-14
+79,Stability-AI/StableLM,15062,Jupyter Notebook,StableLM: Stability AI Language Models,2023-04-19
+80,liaokongVFX/LangChain-Chinese-Getting-Started-Guide,4667,,LangChain 的中文入门教程,2023-04-07
+81,EwingYangs/awesome-open-gpt,3432,Python,Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥,2023-04-03
+82,0hq/WebGPT,3125,JavaScript,Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript. ,2023-04-20
+83,geekyutao/Inpaint-Anything,3792,Jupyter Notebook,Inpaint anything using Segment Anything and inpainting models.,2023-04-09
+84,bigcode-project/starcoder,5883,Python,Home of StarCoder: fine-tuning & inference!,2023-04-24
+85,intel/intel-one-mono,7742,,Intel One Mono font repository,2023-04-11
+86,BuilderIO/ai-shell,3153,TypeScript,A CLI that converts natural language to shell commands.,2023-04-05
+87,SkalskiP/courses,3285,Python,This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI),2023-04-02
+88,lvwzhen/law-cn-ai,4349,MDX,⚖️ AI 法律助手,2023-04-21
+89,kyegomez/tree-of-thoughts,3282,Python,Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% ,2023-05-21
+90,togethercomputer/RedPajama-Data,3307,Python,The RedPajama-Data repository contains code for preparing large datasets for training large language models.,2023-04-14
+91,Instruction-Tuning-with-GPT-4/GPT-4-LLM,3116,HTML,Instruction Tuning with GPT-4,2023-04-06
+92,Vision-CAIR/MiniGPT-4,21797,Python,MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models,2023-04-15
+93,pengxiao-song/LaWGPT,5008,Python," 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",2023-04-20
+94,ray-project/llm-numbers,3094,,Numbers every LLM developer should know,2023-05-17
+95,brexhq/prompt-engineering,6571,,Tips and tricks for working with Large Language Models like OpenAI's GPT-4.,2023-04-21

@@ -1,0 +1,7 @@
+,full_name,stargazers_count,language,description,created_at
+0,karpathy/llama2.c,6643,Python,Inference Llama 2 in one file of pure C,2023-07-23
+1,LinkSoul-AI/Chinese-Llama-2-7b,709,Python,开源社区第一个能下载、能运行的中文 LLaMA2 模型！,2023-07-20
+2,liltom-eth/llama2-webui,496,Python,"Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.",2023-07-20
+3,THUDM/CodeGeeX2,363,Python,CodeGeeX2: A More Powerful Multilingual Code Generation Model,2023-07-23
+4,vantezzen/auto-form,769,TypeScript,🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.,2023-07-21
+5,omerbt/TokenFlow,403,,"Official Pytorch Implementation for ""TokenFlow: Consistent Diffusion Features for Consistent Video Editing"" presenting ""TokenFlow""",2023-07-20

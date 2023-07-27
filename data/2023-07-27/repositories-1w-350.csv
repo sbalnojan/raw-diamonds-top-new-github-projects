@@ -1,0 +1,4 @@
+,full_name,stargazers_count,language,description,created_at
+0,karpathy/llama2.c,8314,Python,Inference Llama 2 in one file of pure C,2023-07-23
+1,vantezzen/auto-form,781,TypeScript,🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.,2023-07-21
+2,THUDM/CodeGeeX2,498,Python,CodeGeeX2: A More Powerful Multilingual Code Generation Model,2023-07-23

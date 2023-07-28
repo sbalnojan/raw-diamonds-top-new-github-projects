@@ -1,0 +1,4 @@
+,full_name,stargazers_count,language,description,created_at
+0,THUDM/CodeGeeX2,872,Python,CodeGeeX2: A More Powerful Multilingual Code Generation Model,2023-07-23
+1,karpathy/llama2.c,9196,Python,Inference Llama 2 in one file of pure C,2023-07-23
+2,evanmiller/LLM-Reading-List,360,,"LLM papers I'm reading, mostly on inference and model compression",2023-07-26
